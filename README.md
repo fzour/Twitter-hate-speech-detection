@@ -1,5 +1,5 @@
 # Twitter hetspeech detection
-
+*Exploratory Data Analysis (EDA)
 * NLP
 * Text Mining
 * Python
