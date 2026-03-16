@@ -4,7 +4,7 @@
 * Text Mining
 * Python
 
-This repository aims to identify hate speech in Twitter tweets using two distinct algorithms: DecisionTree and SVM. The classification outcome assigns a label of 1 for hate speech and 0 for non-hate speech. This project serves as an exploration into automated hate speech detection on the Twitter platform. 
+This repository aims to identify hate speech in Twitter tweets using two distinct algorithms: Decision Trees and Support Vector Machine. The classification outcome assigns a label of 1 for hate speech and 0 for non-hate speech. This project serves as an exploration into automated hate speech detection on the Twitter platform. 
 
 ![image](https://github.com/fzour/Twitter-hate-speech-detection/assets/152024653/3bfc7a61-3f43-48d9-8191-712b5f1e425b)
 
