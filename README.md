@@ -1,4 +1,4 @@
-# Twitter hetspeech detection
+# Twitter hatespeech detection
 * Exploratory Data Analysis (EDA)
 * NLP
 * Text Mining
